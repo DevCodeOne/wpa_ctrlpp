@@ -1,0 +1,3 @@
+[submodule "external/wpa_ctrl_cmake"]
+	path = external/wpa_ctrl_cmake
+	url = https://github.com/DevCodeOne/wpa_ctrl_cmake
